@@ -8,41 +8,25 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://an32-an32.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>https://an32-an32.github.io/blog/posts/test/</link>
+      <title>The Start Of The Beginning</title>
+      <link>https://an32-an32.github.io/blog/posts/the-start-of-the-beginning/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://an32-an32.github.io/blog/posts/test/</guid>
-      <description>Working or Not? Try it you idiot.
-Link - https://google.com
-#include &amp;lt;iostream&amp;gt; int main(int argc, char *argv[]) { std::cout &amp;lt;&amp;lt; &amp;#34;You suck!&amp;#34; &amp;lt;&amp;lt; std::endl; return 0; } Test Image: </description>
-      <content>&lt;h3 id=&#34;working-or-not&#34;&gt;Working or Not?&lt;/h3&gt;
-&lt;p&gt;Try it you idiot.&lt;/p&gt;
-&lt;p&gt;Link - &lt;a href=&#34;https://google.com&#34;&gt;https://google.com&lt;/a&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-c++&#34; data-lang=&#34;c++&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#include&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;iostream&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;
-&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
-&lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;(&lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt; argc, &lt;span style=&#34;color:#66d9ef&#34;&gt;char&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt;argv[])
-{
-	std&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;cout &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;You suck!&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&amp;lt;&lt;/span&gt; std&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;endl;
-	&lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;;
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Test Image: &lt;img src=&#34;https://an32-an32.github.io/blog/blog/images/privelege_rings%201.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>First Blog</title>
-      <link>https://an32-an32.github.io/blog/posts/first-blog/</link>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://an32-an32.github.io/blog/posts/first-blog/</guid>
-      <description>Setting up Hugo  Install Git: https://github.com/git-guides/install-git Install Go: https://go.dev/dl/  </description>
-      <content>&lt;h2 id=&#34;setting-up-hugo&#34;&gt;Setting up Hugo&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Install Git: &lt;a href=&#34;https://github.com/git-guides/install-git&#34;&gt;https://github.com/git-guides/install-git&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Install Go: &lt;a href=&#34;https://go.dev/dl/&#34;&gt;https://go.dev/dl/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://an32-an32.github.io/blog/blog/images/find-offsets%201.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+      <guid>https://an32-an32.github.io/blog/posts/the-start-of-the-beginning/</guid>
+      <description>So, hey, this is my first blog or to say, my first time writing something that is in my mind! The whole idea of starting a blog came from a video by NetworkChuck, where he talked about the second brain, and something about sharing information with others.
+I always wanted to share information with others, and I tried, like I started 4 youtube channels (not simulatenously), but making videos is too much work and I also have a shitty computer (actual reason; lack of persistence).</description>
+      <content>&lt;p&gt;So, hey, this is my first blog or to say, my first time writing something that is in my mind! The whole idea of starting a blog came from a video by &lt;em&gt;&lt;a href=&#34;https://youtu.be/dnE7c0ELEH8?si=nYCjzwAAECGpRofv&#34;&gt;NetworkChuck&lt;/a&gt;&lt;/em&gt;, where he talked about the second brain, and something about sharing information with others.&lt;/p&gt;
+&lt;p&gt;I always wanted to share information with others, and I tried, like I started 4 youtube channels (not simulatenously), but making videos is too much work and I also have a shitty computer (actual reason; lack of persistence). I think before youtube, I tried to create blogs using &lt;em&gt;Blogger&lt;/em&gt;, where I would talk about economy, uh uh&amp;hellip; Nevermind, In this blog site, I hope to share the knowledge I pickup along the way and my thought process when solving a problem. &lt;strong&gt;AND BE CONSISTENT!&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;technical-aspect&#34;&gt;Technical Aspect&lt;/h2&gt;
+&lt;p&gt;So the tehnincal aspect, is not so comples, I used the same pipeline (copied) showed by &lt;em&gt;NetworkChuck&lt;/em&gt;, where the blogs are written in &lt;em&gt;&lt;a href=&#34;https://obsidian.md/&#34;&gt;Obsidian&lt;/a&gt;&lt;/em&gt;, then we use &lt;em&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;&lt;/em&gt; to convert the blog from markdown format to &lt;em&gt;HTML&lt;/em&gt;. Then, upload the HTML blog to &lt;em&gt;Github&lt;/em&gt;, and host it using &lt;em&gt;Github Pages&lt;/em&gt;. All of these steps are done using a shell script, so I can technically say, &lt;strong&gt;&amp;ldquo;I upload my blog to my site with just a single command (&lt;code&gt;./updateBlog&lt;/code&gt;)&amp;quot;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s the pipeline:&lt;img src=&#34;https://an32-an32.github.io/blog/blog/images/Screenshot%20from%202024-11-28%2018-15-24.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-did-i-learn&#34;&gt;What Did I Learn&lt;/h2&gt;
+&lt;p&gt;Just by following &lt;em&gt;NetworkChuck&lt;/em&gt;&amp;rsquo;s video, I learnt about &lt;em&gt;Hugo&lt;/em&gt;, some new github commands and most importantly, I learnt about Github pages, which I learnt by my own (I am proud).&lt;/p&gt;
+&lt;p&gt;So let me tell you my rookie mistake, while learning Github pages. I first searched on &lt;em&gt;Google&lt;/em&gt;, there came a lot of writeups and blogs, and every one of them said that you were supposed to go to &lt;code&gt;settings &amp;gt; pages&lt;/code&gt; and then select which branch you want to deploy. My stupid eyes, did not catch the difference between, &lt;strong&gt;Project Settings&lt;/strong&gt; and &lt;strong&gt;Account Settings&lt;/strong&gt;. So you guessed it right? 1 Hour of pain staking debugging or searching, and finally I realised that I was supposed to go to Project Settings. DAMN!!!&lt;/p&gt;
+&lt;p&gt;Sometimes I think IT is about learning from mistakes, I guess!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;That&amp;rsquo;s it for my first blog, today I (or copied) created my blogs pipeline where I would easily be able to upload my blogs with a &lt;strong&gt;single command&lt;/strong&gt;. I hope this blog was not a &lt;em&gt;Yappathon&lt;/em&gt;, cause I don&amp;rsquo;t know what the hell, I am talking about, so see you next.&lt;/p&gt;
+&lt;p&gt;&amp;ndash; AN32&lt;/p&gt;
 </content>
     </item>
     
