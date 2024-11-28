@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tag1 on Terminal</title>
-    <link>/tags/tag1/</link>
+    <link>https://an32-an32.github.io/blog/tags/tag1/</link>
     <description>Recent content in tag1 on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://an32-an32.github.io/blog/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Blog</title>
-      <link>/posts/first-blog/</link>
+      <link>https://an32-an32.github.io/blog/posts/first-blog/</link>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>/posts/first-blog/</guid>
+      <guid>https://an32-an32.github.io/blog/posts/first-blog/</guid>
       <description>Setting up Hugo  Install Git: https://github.com/git-guides/install-git Install Go: https://go.dev/dl/  </description>
       <content>&lt;h2 id=&#34;setting-up-hugo&#34;&gt;Setting up Hugo&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Install Git: &lt;a href=&#34;https://github.com/git-guides/install-git&#34;&gt;https://github.com/git-guides/install-git&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Install Go: &lt;a href=&#34;https://go.dev/dl/&#34;&gt;https://go.dev/dl/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;/images/find-offsets%201.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://an32-an32.github.io/blog/images/find-offsets%201.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 </content>
     </item>
     
