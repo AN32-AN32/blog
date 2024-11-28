@@ -11,4 +11,4 @@ tags:
 - Install Git: https://github.com/git-guides/install-git
 - Install Go: https://go.dev/dl/
 
-![Image Description](/images/find-offsets%201.png)
+![Image Description](/blog/images/find-offsets%201.png)
