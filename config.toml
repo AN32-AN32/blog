@@ -20,7 +20,7 @@ paginate = 5
   fullWidthTheme = false
 
   # center theme with default width
-  centerTheme = false
+  centerTheme = true
 
   # if your resource directory contains an image called `cover.(jpg|png|webp)`,
   # then the file will be used as a cover automatically.
@@ -56,12 +56,12 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "AN32"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
+      subtitle = "Another annoying blog?"
       owner = ""
-      keywords = ""
+      keywords = "technology hacking programming ai computers tech nerd"
       copyright = ""
       menuMore = "Show more"
       readMore = "Read more"
@@ -74,7 +74,7 @@ paginate = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Terminal"
+        logoText = "AN32"
         logoHomeLink = "/blog"
 
       [languages.en.menu]
