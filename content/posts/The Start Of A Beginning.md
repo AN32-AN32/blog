@@ -1,8 +1,8 @@
 ---
-title: The Start Of The Beginning
+title: The Start Of A Beginning
 date: 2024-11-28
 draft: false
-tags: []
+tags:
 ---
 So, hey, this is my first blog or to say, my first time writing something that is in my mind! The whole idea of starting a blog came from a video by *[NetworkChuck](https://youtu.be/dnE7c0ELEH8?si=nYCjzwAAECGpRofv)*, where he talked about the second brain, and something about sharing information with others. 
 
